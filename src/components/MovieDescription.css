@@ -1,0 +1,16 @@
+
+.movie-card {
+    padding: 5px 25px 10px 25px;
+    max-width: 25%;
+    color: #eee;
+    margin-left: 500px;
+  }
+  
+  .movie-card h2 {
+    font-size: 1em;
+  }
+  
+  .movie-card p {
+    font-size: 0.8em;
+    line-height: 0;
+  }
